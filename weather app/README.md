@@ -53,8 +53,8 @@ Future Improvements
 
 If I were to expand this project, I would look into:
 
-Adding a 7-day fo.recast view.
+Adding a 7-day forecast view.
 
 Saving the user's "last searched" city to a local config file.
 
-Adding a toggle for Celsius/Fahrenheit
+Adding a toggle for Celsius/Fahrenheit.
