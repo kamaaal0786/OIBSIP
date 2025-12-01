@@ -2,13 +2,16 @@
 
 A clean, minimalist desktop weather application built with Python.
 
-I created this project to explore **GUI development** and **API chaining**. Unlike standard weather apps that require complex API keys, this tool uses a custom logic flow to fetch data seamlessly using Openn-Meteo.
+I created this project to explore **GUI development** and **API chaining**. Unlike standard weather apps that require complex API keys, this tool uses a custom logic flow to fetch data seamlessly using Open-Meteo.
+
+*(Note for the user: Take a screenshot of your app, name it screenshot.png, and upload it to your GitHub repo for this image to show up\!)*
 
 ## **🚀 Key Features**
 
 * **No API Keys Needed:** Built on the Open-Meteo architecture, allowing the app to run immediately without user configuration.  
-* Two-Step Data Fetching: 1\. Geocoding: Converts city names (e.g., "Tokyo") into precise Latitude/Longitude coordinates.  
-  2\. Meteorology: Uses coordinates to fetch live weather data.  
+* **Two-Step Data Fetching:**  
+  1. **Geocoding:** Converts city names (e.g., "Tokyo") into precise Latitude/Longitude coordinates.  
+  2. **Meteorology:** Uses coordinates to fetch live weather data.  
 * **Modern UI:** A custom dark-themed interface built with Tkinter, moving away from the default "gray" system look.  
 * **Resilient Error Handling:** The app manages network timeouts and invalid city names gracefully without crashing.
 
@@ -30,11 +33,11 @@ I created this project to explore **GUI development** and **API chaining**. Unli
    pip install requests
 
 3. **Run the app:**  
-   python weather\_dashboard.py
+   python weather.py
 
 ## **📂 Project Structure**
 
-* weather\_dashboard.py \- The main entry point. Contains the UI rendering logic and the API fetch functions.  
+* weather.py \- The main entry point. Contains the UI rendering logic and the API fetch functions.  
 * README.md \- Documentation.
 
 ## **🔮 Future Improvements**
