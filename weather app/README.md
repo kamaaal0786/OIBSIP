@@ -22,9 +22,7 @@ I created this project to explore **GUI development** and **API chaining**. Unli
 
 ## **💻 How to Run This Project**
 
-1. **Clone the repository:**  
-   git clone \[https://github.com/kamaaal0786/OIBSIP.git\](https://github.com/kamaaal0786/OIBSIP.git)  
-   cd "OIBSIP/weather app"
+1. **Clone the repository:** 
 
 2. Install dependencies:  
    This project is lightweight and only requires one external package.  
