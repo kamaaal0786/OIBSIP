@@ -4,8 +4,6 @@ A clean, minimalist desktop weather application built with Python.
 
 I created this project to explore **GUI development** and **API chaining**. Unlike standard weather apps that require complex API keys, this tool uses a custom logic flow to fetch data seamlessly using Open-Meteo.
 
-*(Note for the user: Take a screenshot of your app, name it screenshot.png, and upload it to your GitHub repo for this image to show up\!)*
-
 ## **🚀 Key Features**
 
 * **No API Keys Needed:** Built on the Open-Meteo architecture, allowing the app to run immediately without user configuration.  
@@ -25,8 +23,8 @@ I created this project to explore **GUI development** and **API chaining**. Unli
 ## **💻 How to Run This Project**
 
 1. **Clone the repository:**  
-   git clone \[https://github.com/your-username/atmosphere-weather.git\](https://github.com/your-username/atmosphere-weather.git)  
-   cd atmosphere-weather
+   git clone \[https://github.com/kamaaal0786/OIBSIP.git\](https://github.com/kamaaal0786/OIBSIP.git)  
+   cd "OIBSIP/weather app"
 
 2. Install dependencies:  
    This project is lightweight and only requires one external package.  
